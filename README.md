@@ -8,7 +8,7 @@ The project allows users to select an account, authenticate using a PIN, and per
 
 ## Features
 
-- English & Hindi Interface — Use the ATM in either English or Hindi.
+* English & Hindi Interface — Use the ATM in either English or Hindi.
 * Two Account Types — Supports Saving Account and Current Account.
 * PIN Authentication — A PIN is required before performing transactions or checking balance.
 * Cash Withdrawal — Withdraw money while following the account’s withdrawal limit and available balance.
